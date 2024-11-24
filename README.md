@@ -1,4 +1,5 @@
 # Taller07
+### Joel Domínguez Ochoa
 ## Parte 1
 * Subir las evidencias de los revisados en la carpeta revisados-clase-07 (del día miércoles y jueves), en formato imagen o pdf
 
